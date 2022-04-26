@@ -1,7 +1,7 @@
 // This program writes a string and 2 integer
 // values to a file
 #include <fstream> // Include fstream to access file-related functions
-#include <iostream>
+#include <iostream> 
 
 int main() {
   std::ofstream output_file; // Create an output filestream that will direct data into a file
