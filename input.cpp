@@ -1,5 +1,5 @@
 // This program reads the data from an input file
-#include <fstream> // Include fstream to access file-related functions
+#include <fstream> // Always include fstream to access file-related functions
 #include <iostream>
 #include <string>
 
