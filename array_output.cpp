@@ -8,7 +8,7 @@ int main() {
   int arr_values[5] = {3, 6, 2, 1, 5};
   outputfile << 5 << "\n"; // indicate how many elements will be saved
   for (int i = 0; i < 5; i++)
-    outputfile << arr_values[i] << "\n";
+    outputfile << arr_values[i] << "\n"; 
 
   outputfile.close();
   return 0;
