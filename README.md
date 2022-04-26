@@ -1,4 +1,4 @@
-# Reading and Writing to files in C++
+# Reading and Writing to files in C++ 
 The `<fstream>` header provides most functionalities we will need to write and read data from files. Don't forget to include it to use it's objects and functions.
 
 ## Writing files ##
