@@ -1,6 +1,6 @@
 #include <fstream>
 #include <iostream>
-
+ 
 int main() {
   std::ifstream inputfile;
   inputfile.open("array_output.txt");
